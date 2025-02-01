@@ -1,0 +1,31 @@
+
+
+
+
+Conditional Statement...(if/else & switch/case)
+
+If Rahim comes by his cycle then I will go to field, if karim comes by his
+bike then I will go to park or if Bablu comes by his car 
+then we will go to a long drive otherwise I will enjoy movie in my room.
+
+Rahim => Cycle = field
+Karim => Bike  = park
+Bablu => Car   = long drive
+Other = Movie
+
+
+if (condition){ 
+    //Statement....
+}
+
+else if(condition){
+    //Statement...
+}
+
+else if(condition){
+    ///Statement...
+}
+
+else{
+    //Statement...
+}
